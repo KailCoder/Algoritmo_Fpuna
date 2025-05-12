@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <limits.h>
-
+//Este programa genera un resumen anual de ventas basado en registros de ventas.
+// Se definen constantes para el número de vendedores y meses
+// y se utiliza una estructura para almacenar los registros de ventas.
+// Luego, se implementa una función que calcula el resumen anual y lo guarda en un archivo de texto.
+//Este programa fue desarrollado por Julio Ojeda y Manuel Gonzalez.
 #define VENDEDORES 10
 #define MESES 12
 
