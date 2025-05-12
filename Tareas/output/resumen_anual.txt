@@ -1,0 +1,8 @@
+Resumen Anual
+Total de ventas en el año: 365
+Total de visitas en el año: 740
+Porcentaje de ventas respecto a visitas: 49.32%
+Vendedor con más ventas: 3
+Vendedor con menos ventas: 4
+Mes con más ventas: 3
+Mes con menos ventas: 4
